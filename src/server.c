@@ -20,12 +20,12 @@ typedef struct
     int                expected_sequence_number;
 } ClientInfo;
 
-typedef struct
-{
-     int border_x;
-     int border_y;
-     int player_pos[MAX_CLIENTS][2];
-} GameSettings;
+//typedef struct
+//{
+//     int border_x;
+//     int border_y;
+//     int player_pos[MAX_CLIENTS][2];
+//} GameSettings;
 
 
 int main(void)
