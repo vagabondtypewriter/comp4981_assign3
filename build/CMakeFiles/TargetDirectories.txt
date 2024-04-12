@@ -1,0 +1,5 @@
+/home/kiefer/CST_TERM4/4981/3/build/CMakeFiles/server.dir
+/home/kiefer/CST_TERM4/4981/3/build/CMakeFiles/client.dir
+/home/kiefer/CST_TERM4/4981/3/build/CMakeFiles/format.dir
+/home/kiefer/CST_TERM4/4981/3/build/CMakeFiles/edit_cache.dir
+/home/kiefer/CST_TERM4/4981/3/build/CMakeFiles/rebuild_cache.dir

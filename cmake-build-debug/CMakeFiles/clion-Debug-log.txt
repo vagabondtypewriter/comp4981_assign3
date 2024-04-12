@@ -1,0 +1,6 @@
+/home/kiefer/.local/share/JetBrains/Toolbox/apps/clion/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/kiefer/.local/share/JetBrains/Toolbox/apps/clion/bin/ninja/linux/x64/ninja -DCMAKE_C_COMPILER=clang -DCMAKE_CXX_COMPILER=clang++ -G Ninja -S /home/kiefer/CST_TERM4/4981/3 -B /home/kiefer/CST_TERM4/4981/3/cmake-build-debug
+-- Compiler being used: /usr/bin/clang
+COMPILER_NAME: clang
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/kiefer/CST_TERM4/4981/3/cmake-build-debug
